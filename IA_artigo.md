@@ -12,9 +12,12 @@ Antes de tudo, é crucial entender o que exatamente é Inteligência Artificial.
 
 **Automação de Processos:** Um dos usos mais comuns da IA é na automação de tarefas repetitivas e intensivas em dados. Isso não apenas aumenta a eficiência, mas também libera tempo para atividades mais criativas e estratégicas.
 Assistência Virtual: Assistentes virtuais como Siri, Alexa e Google Assistant são exemplos populares de como a IA pode facilitar a vida diária, respondendo a perguntas, controlando dispositivos domésticos e até mesmo auxiliando em tarefas de organização pessoal.
+
 **Saúde e Medicina:** Na área da saúde, a IA está revolucionando diagnósticos médicos, ajudando a identificar padrões em grandes conjuntos de dados que os humanos poderiam perder, além de apoiar a descoberta de novos tratamentos e medicamentos.
+
 **Transporte e Logística:** Desde carros autônomos até sistemas de gerenciamento de cadeia de suprimentos, a IA está transformando como nos movemos e como produtos chegam até nós de maneira mais eficiente e segura.
 Mitos e Realidades
+
 **Substituição de Empregos:** Embora a IA possa automatizar algumas funções, muitos especialistas acreditam que ela também criará novos tipos de trabalho e oportunidades em áreas como desenvolvimento de IA, ética de dados e integração de sistemas.
 Aprendizado de Máquina vs. Consciência: A IA atualmente se limita ao aprendizado de máquina, onde os sistemas aprendem com dados e experiências passadas, sem consciência ou entendimento como o humano. O cenário de máquinas conscientes ainda pertence ao campo da ficção científica.
 
